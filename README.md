@@ -6,4 +6,4 @@ The 100 days of code challenge 😍
 
 | Day | Project                      | Description                                                      | Language                    | Status |
 |-----|------------------------------|------------------------------------------------------------------|-----------------------------|--------|
-| 1   | Timer                        | Timer App With Vuejs                                             | Vuejs,Vuetify               | Done   |
+| 1   | Timer                        | Timer App With Vuejs                                             | Vue js,Vuetify               | Done   |
