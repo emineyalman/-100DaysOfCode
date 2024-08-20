@@ -11,5 +11,6 @@ The 100 days of code challenge 😍
 | 3   | Reading List                 | Reading List App                                                 | Vuejs,Vuetify,Vue-Router,Axios                    | Done   |
 | 4   | Todo List                    | Drag and Drop                                                    | Vuejs,Vuetify                                     | Done   |
 | 5   | Authentication App           | Login and Sign Up ,Vuex Persistent State, Secure-Ls              | Vuejs,Vuetify,Vue-Router,Axios,CyrptoJS,          | Done   |
-| 5   | Quiz App                     | Quiz                                                             | Vuejs,Vuetify,Axios                               | Done   |
+| 6   | Quiz App                     | Quiz                                                             | Vuejs,Vuetify,Axios                               | Done   |
+| 7   | Weather App                  | Weather information by city name                                 | Vuejs,Vuetify,Axios                               | Done   |
 
