@@ -15,4 +15,6 @@ The 100 days of code challenge 😍
 | 7   | Weather App                  | Weather Information By City Name                                 | Vuejs,Vuetify,Axios,OpenWeatherMap API            | Done   |
 | 8   | The Anime Search Data App    |Anime Search Using Jikan API                                      | Vuejs,Scss,Fetch API,Jikan API                    | Done   |
 | 9   | Travel Planner App           |Travel Planner Using OpenTripMap API                              | Vuejs,Scss,Axios,OpenTripMap API                  | Done   |
+| 10  | Blog App                     |Blog App                                                          | Vuejs,Vuetify,Vue-Router,Vuex                     | Done   |
+| 11  | Firebase Chat App            |Instant Communication With Firebase                               | Vuejs,Firebase                                    | Done   |
 
