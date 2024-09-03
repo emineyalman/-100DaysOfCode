@@ -17,4 +17,5 @@ The 100 days of code challenge 😍
 | 9   | Travel Planner App           |Travel Planner Using OpenTripMap API                              | Vuejs,Scss,Axios,OpenTripMap API                  | Done   |
 | 10  | Blog App                     |Blog App                                                          | Vuejs,Vuetify,Vue-Router,Vuex                     | Done   |
 | 11  | Firebase Chat App            |Instant Communication With Firebase                               | Vuejs,Firebase                                    | Done   |
+| 12  | Firebase Authentication App  |Authentication With Firebase                                      | Vuejs,Firebase,Google Authentication              | Done   |
 
